@@ -8,8 +8,8 @@
     "version": "1",
     "name": "SmartHome",
     "iconUrl": "https://horsefacts.github.io/rpg/splash.png",
-    "homeUrl": "https://horsefacts/github.io/rpg/",
-    "imageUrl": "https://horsefacts/github.io/rpg/frame.png",
+    "homeUrl": "https://horsefacts.github.io/rpg/",
+    "imageUrl": "https://horsefacts.github.io/rpg/frame.png",
     "buttonTitle": "Play",
     "splashImageUrl": "https://horsefacts.github.io/rpg/splash.png",
     "splashBackgroundColor": "#19120b"
